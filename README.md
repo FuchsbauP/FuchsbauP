@@ -1,9 +1,7 @@
 ## Olá! Eu sou Fabio Souza(FuchsbauP) 👋
 
-- 🔭 Atualmente trabalho como assistente fiscal(🤔)
-- 🌱 Estudando HTML, CSS, JavaScript, Python, React, Node, Gestão de TI, Gestão de Pessoas, Agile e SCRUM
-- 👯 Buscando colaborar em uma equipe de devs
-- 😄 Pronomes: Ele/Dele
+- 🔭 Atualmente trabalho como estagiário em desenvolvimetno web no INPE(Instituto Nacional de Pesquisas Espaciais), no CPTEC(Centro de Previsão de Tempo e Estudos Climáticos)
+- 🌱 Estudando HTML, CSS, JavaScript, Python, React, Node, Laravel, Gestão de TI, Gestão de Pessoas, Agile e SCRUM
 - ⚡ Fun fact: Gamer(talvez) e amante de automobilismo
 <div>
     <a href="https://github.com/FuchsbauP">
