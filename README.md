@@ -1,8 +1,8 @@
 ## Olá! Eu sou Fabio Souza(FuchsbauP) 👋
 
-- 🔭 Atualmente trabalho como estagiário em desenvolvimetno web no INPE(Instituto Nacional de Pesquisas Espaciais), no CPTEC(Centro de Previsão de Tempo e Estudos Climáticos)
-- 🌱 Estudando HTML, CSS, JavaScript, Python, React, Node, Laravel, Gestão de TI, Gestão de Pessoas, Agile e SCRUM
-- ⚡ Fun fact: Gamer(talvez) e amante de automobilismo
+- 🔭 Atualmente trabalho como estagiário em desenvolvimetno web no Santuário Nacionl Aparecida.
+- 🌱 Estudando HTML, CSS, JavaScript, Python, React, Node, Laravel, Gestão de TI, Gestão de Pessoas, Agile e SCRUM.
+- ⚡ Fun fact: Gamer(talvez) e amante de automobilismo.
 <div>
     <a href="https://github.com/FuchsbauP">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FuchsbauP&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=transparent&locale=pt-br" />
