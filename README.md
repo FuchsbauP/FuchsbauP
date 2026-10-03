@@ -1,7 +1,7 @@
 ## Olá! Eu sou Fabio Souza(FuchsbauP) 👋
 
-- 🔭 Atualmente trabalho como estagiário em desenvolvimetno web no Santuário Nacional Aparecida.
-- 🌱 Estudando HTML, CSS, JavaScript, Python, React, Node, Laravel, Gestão de TI, Gestão de Pessoas, Agile e SCRUM.
+- 🔭 Atualmente trabalho como Assistente de TI no time de desenvolvimetno no Santuário Nacional Aparecida.
+- 🌱 Estudando HTML, CSS, JavaScript, React, Node, Gestão de TI, Gestão de Pessoas.
 - ⚡ Fun fact: Gamer(talvez) e amante de automobilismo.
 <div>
     <a href="https://github.com/FuchsbauP">
